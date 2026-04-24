@@ -27,7 +27,7 @@ Identify cancellation trends and reasons
 Analyze overall business performance
 
 📷 Dashboard Preview
-( github.com/Harshchauhan71/OLA_Ride_Bookings/blob/main/Overall.png )
+https://github.com/Harshchauhan71/OLA_Ride_Bookings/blob/main/Overall.png
 
 🚀 How to Use
 Import dataset into your SQL environment
