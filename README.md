@@ -17,7 +17,7 @@ User-friendly Dashboard Interface
 🛠️ Tech Stack
 SQL (Data querying & transformation)
 
-Data Visualization Tool (Power BI / Tableau / etc.)
+Data Visualization Tool (Power BI)
 
 📌 Key Insights
 Track daily ride demand patterns
